@@ -38,7 +38,7 @@ A mobile application for families to connect.
 # React Native <br> Styled Components <br> Redux <br> 
 ".
 
-#### Front end deployed to https://www.heroku.com/
+#### Front end deployed to https://www.heroku.com/  https://docs.expo.io/workflow/expo-cli/
 
 #### Back end built using:Postgres
 
